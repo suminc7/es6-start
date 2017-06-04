@@ -1,23 +1,24 @@
 {
-  "name": "vue-calculator",
+  "name": "es6-start",
   "version": "1.0.0",
   "description": "- https://nodejs.org/ko/ v.6.10.3",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "git+https://github.com/suminc7/vue-calculator.git",
+  "repository": "git+https://github.com/suminc7/es6-start.git",
   "author": "sumin <suminc7@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/suminc7/vue-calculator/issues"
+    "url": "https://github.com/suminc7/es6-start/issues"
   },
-  "homepage": "https://github.com/suminc7/vue-calculator#readme",
+  "homepage": "https://github.com/suminc7/es6-start#readme",
   "dependencies": {},
   "devDependencies": {
     "babel-core": "^6.24.1",
     "babel-loader": "^7.0.0",
     "babel-preset-es2015": "^6.24.1",
-    "webpack": "^2.5.1"
+    "webpack": "^2.5.1",
+    "webpack-dev-server": "^2.4.5"
   }
 }
