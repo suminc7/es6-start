@@ -6,11 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/suminc7/vue-calculator.git"
-  },
-  "author": "",
+  "repository": "git+https://github.com/suminc7/vue-calculator.git",
+  "author": "sumin <suminc7@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/suminc7/vue-calculator/issues"
